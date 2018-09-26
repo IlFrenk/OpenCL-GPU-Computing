@@ -1,6 +1,6 @@
 # OpenCL GPU Computing
 
-Three programs using the GPU for computing instead of the CPU, thanks to [OpenCL](https://www.khronos.org/opencl/) framework.  
+Three programs which use the GPU for their computing instead of using the CPU, thanks to [OpenCL](https://www.khronos.org/opencl/) framework.  
   
 Every program can be launched from the same interface, included in this project.  
 The three programs are:  
